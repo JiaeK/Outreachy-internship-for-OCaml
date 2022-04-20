@@ -1,2 +1,2 @@
-# Outreachy internship for ocaml.org Documentation
+# Documentation of Outreachy internship for ocaml.org 
 
