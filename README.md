@@ -1,18 +1,18 @@
 
-# Documentation for my Outreachy internship for Ocaml🐫
+# 🐫 Documentation for my Outreachy internship for Ocaml 🐫
 
 ### 📣 General info
 - Project’s name: Building a monitoring and analytics dashboard for ocaml.org
 - Purpose: Provided the visibility on the server performance of metrics, statistics, analytics, and logs to its site users
 
 - Mentor: Thibaut Mattio (@tmattio)
-- UI designer: Asaad Mahmood
+
 
 ### 📣 Source links
 
 - Demo repository link: [github.com/JiaeK/dream-dashboard](https://github.com/JiaeK/dream-dashboard)
 
-- PR: https://github.com/ocaml/ocaml.org/pull/399
+- PR: https://github.com/ocaml/ocaml.org/pull/399 (merged on the 9 of April, 2022)
 
 - Currently upstreaming on [ocaml.org/dashboard/](https://ocaml.org/dashboard/)
  
@@ -43,9 +43,14 @@ from an OCaml type definition
 <br>
 
 
-## 🧭 Overview of workflow & table of pair programming notes 
+## 🧭 Overview of workflow & pair programming 
+#### ▪️Overview of workflow as in chart
+![DD overview](https://user-images.githubusercontent.com/78751231/171056914-320da38f-4b87-48cb-a2b6-5f6b6ddb3232.png)
 
-1.
+
+#### ▪️Table of pair programming (=pp) notes and workflow
+0. 
+1. pp #1
 2.
 3.
 4.
@@ -64,8 +69,9 @@ from an OCaml type definition
 
 <br>
 
-## 🗺️ Outlook 
-
+## 🗺️ Planned Outlook 
+*Disclaimer: this UI design and code all exist in the codebase but the actual outlook when the PR merged point is different like the next paragraph*
+#### ▪️Overview page
 
 <br>
 
@@ -73,3 +79,8 @@ from an OCaml type definition
 Watch the final public presentation I organised with fellow interns:  [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
 
 <br>
+
+## Aknowlegdement
+- This project is inspired by 
+- UI design by Asaad Mahmood
+- Thanks for additional help from 
