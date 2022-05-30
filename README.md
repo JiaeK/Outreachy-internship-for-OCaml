@@ -14,7 +14,7 @@
 
 - PR: https://github.com/ocaml/ocaml.org/pull/399
 
-- Currently, upstreaming on [ocaml.org/dashboard/](https://ocaml.org/dashboard/)
+- Currently upstreaming on [ocaml.org/dashboard/](https://ocaml.org/dashboard/)
  
 - Codebase is inside of [ocaml.org/src/](https://github.com/ocaml/ocaml.org/tree/main/src/dream_dashboard) repo
 
@@ -45,7 +45,21 @@ from an OCaml type definition
 
 ## 🧭 Overview of workflow & table of pair programming notes 
 
-1) 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
 
 
 <br>
