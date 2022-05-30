@@ -70,6 +70,6 @@ from an OCaml type definition
 <br>
 
 ## 📺 Final Presentation
-Watch the final public presentation which I organised with the other interns:  [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
+Watch the final public presentation I organised with fellow interns:  [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
 
 <br>
