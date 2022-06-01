@@ -22,11 +22,11 @@
 <br>
 
 ## 🌈 Features 
-- [x] *Checked box means implemented feature, <b>Bold</b> means implemented & actually upstreamed feature (at the time of the PR)*
+- [x] *Checked box means implemented feature, `___`  means implemented & actually upstreamed feature (at the time of the PR)*
 
 | Overview page | Analytics page | Monitoring page | Logs page |
 | --------------- | --------------- | --------------- | --------------- |
-| <ul><li>- [x] <b>Version of OCaml</b></li><li> - [x] <b>Version of Dream</b></li><li> - [x] <b>Version of the dashboard</b></li><li> - [x] <b>Uptime</b></li><li>- [x] <b>Host system information (OS, architecture, etc.) </b></li></ul> | <ul><li>- [x] Number of visitors</li><li> - [ ] Top countries</li><li> - [ ] Top sources </li><li> - [x] <b>Top pages </b></li><li> - [x] Devices</li><li>- [x] Browsers</li><li>- [x] Operating system </li></ul> | <ul><li>- [x] <b>Memory usage</b></li><li>- [x] <b>CPU usage</b></li><li>- [x] Opened file descriptors</li><li>- [ ] Total I/O (input and output measured in Gb)</li></ul> |<ul><li>- [ ] Report logs </li></ul>|
+| <ul><li>- [x] `Version of OCaml`</li><li> - [x] `Version of Dream`</li><li> - [x] `Version of the dashboard`</li><li> - [x] `Uptime`</li><li>- [x] `Host system information (OS, architecture, etc.)`</li></ul> | <ul><li>- [x] Number of visitors</li><li> - [ ] Top countries</li><li> - [ ] Top sources </li><li> - [x] `Top pages`</li><li> - [x] Devices</li><li>- [x] Browsers</li><li>- [x] Operating system </li></ul> | <ul><li>- [x] `Memory usage`</li><li>- [x] `CPU usage`</li><li>- [x] Opened file descriptors</li><li>- [ ] Total I/O (input and output measured in Gb)</li></ul> |<ul><li>- [ ] Report logs </li></ul>|
 
 
 
@@ -66,7 +66,7 @@ from an OCaml type definition
 </details>
 
 
-#### ▪️Table of pair programming (=pp) notes and workflow
+#### - Table of pair programming (=pp) notes and workflow
 0. 
 1. pp #1
 2.
