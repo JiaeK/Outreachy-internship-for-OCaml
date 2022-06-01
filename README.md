@@ -58,15 +58,12 @@ from an OCaml type definition
 ## 🧭 Overview of workflow & pair programming 
 
 
-<details>
- <summary><b> Overview of workflow as in chart (click to expand) </b></summary>
- 
-![d workflow](https://user-images.githubusercontent.com/78751231/171396021-eb3c3268-9fa1-44dd-bed4-9b0b15e00b07.png)
-
-</details>
+#### 🔹Overview of workflow as in chart 
+<img src="https://user-images.githubusercontent.com/78751231/171423548-98cf1ecf-cfa1-4a0c-9d85-519a27b13929.png" alt="Workflow overview chart" title="Workflow overview chart" width="70%"/>
 
 
-#### - Table of pair programming (=pp) notes and workflow
+
+#### 🔹Table of pair programming (=pp) notes and workflow
 0. 
 1. pp #1
 2.
@@ -89,7 +86,7 @@ from an OCaml type definition
 
 ## 🗺️ Planned Outlook 
 *Disclaimer: this UI design and code all exist in the codebase but the actual outlook when the PR merged point is different like the next paragraph*
-#### ▪️Overview page
+#### 🔹Overview page
 
 <br>
 
