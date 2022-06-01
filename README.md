@@ -3,7 +3,7 @@
 
 ### 📣 General info
 - Project’s name: Building a monitoring and analytics dashboard for ocaml.org
-- Purpose: Provided the visibility on the server performance of metrics, statistics, analytics, and logs to its site users
+- Purpose: Provided the visibility on the server performance of metrics, statistics, and analytics to its site users
 
 - Mentor: Thibaut Mattio (@tmattio)
 
@@ -17,6 +17,23 @@
 - Currently upstreaming on [ocaml.org/dashboard/](https://ocaml.org/dashboard/)
  
 - Codebase is inside of [ocaml.org/src/](https://github.com/ocaml/ocaml.org/tree/main/src/dream_dashboard) repo
+- Next step suggestions is [here](https://github.com/ocaml/ocaml.org/issues/410) 
+
+<br>
+
+## 🌈 Features 
+ 
+| Overview page | Analytics page | Monitoring page | Logs page |
+| --------------- | --------------- | --------------- | --------------- |
+| - Version of OCaml |- Number of visitors| - Memory usage |- Report logs |
+| - Version of Dream | - Top countries |- CPU usage |
+| - Version of the dashboard | - Top sources | - Opened file descriptors |
+| - Uptime | - Top pages | - Total I/O (input and output measured in Gb) |
+| - Host system information (OS, architecture, etc.) |- Devices | 
+| | - Browser |
+| | - Operating system |
+ 
+
 
 <br>
 
@@ -44,8 +61,13 @@ from an OCaml type definition
 
 
 ## 🧭 Overview of workflow & pair programming 
-#### ▪️Overview of workflow as in chart
-![DD overview](https://user-images.githubusercontent.com/78751231/171056914-320da38f-4b87-48cb-a2b6-5f6b6ddb3232.png)
+
+
+<details>
+ <summary><b> Overview of workflow as in chart (click to expand) </b></summary>
+ 
+![d workflow](https://user-images.githubusercontent.com/78751231/171394583-9bad32cc-ab1c-4f99-a3c3-6448cae7bccd.png)
+</details>
 
 
 #### ▪️Table of pair programming (=pp) notes and workflow
@@ -76,11 +98,11 @@ from an OCaml type definition
 <br>
 
 ## 📺 Final Presentation
-Watch the final public presentation I organised with fellow interns:  [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
+Watch the final public presentation I organised & hosted with my fellow interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
 
 <br>
 
 ## Aknowlegdement
 - This project is inspired by 
 - UI design by Asaad Mahmood
-- Thanks for additional help from 
+
