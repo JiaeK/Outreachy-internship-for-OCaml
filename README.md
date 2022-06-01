@@ -22,17 +22,12 @@
 <br>
 
 ## 🌈 Features 
- 
+- [x] *Checked box means implemented feature, <b>Bold</b> means implemented & actually upstreamed feature (at the time of the PR)*
+
 | Overview page | Analytics page | Monitoring page | Logs page |
 | --------------- | --------------- | --------------- | --------------- |
-| - Version of OCaml |- Number of visitors| - Memory usage |- Report logs |
-| - Version of Dream | - Top countries |- CPU usage |
-| - Version of the dashboard | - Top sources | - Opened file descriptors |
-| - Uptime | - Top pages | - Total I/O (input and output measured in Gb) |
-| - Host system information (OS, architecture, etc.) |- Devices | 
-| | - Browser |
-| | - Operating system |
- 
+| <ul><li>- [x] <b>Version of OCaml</b></li><li> - [x] <b>Version of Dream</b></li><li> - [x] <b>Version of the dashboard</b></li><li> - [x] <b>Uptime</b></li><li>- [x] <b>Host system information (OS, architecture, etc.) </b></li></ul> | <ul><li>- [x] Number of visitors</li><li> - [ ] Top countries</li><li> - [ ] Top sources </li><li> - [x] <b>Top pages </b></li><li> - [x] Devices</li><li>- [x] Browsers</li><li>- [x] Operating system </li></ul> | <ul><li>- [x] <b>Memory usage</b></li><li>- [x] <b>CPU usage</b></li><li>- [x] Opened file descriptors</li><li>- [ ] Total I/O (input and output measured in Gb)</li></ul> |<ul><li>- [ ] Report logs </li></ul>|
+
 
 
 <br>
@@ -66,7 +61,8 @@ from an OCaml type definition
 <details>
  <summary><b> Overview of workflow as in chart (click to expand) </b></summary>
  
-![d workflow](https://user-images.githubusercontent.com/78751231/171394583-9bad32cc-ab1c-4f99-a3c3-6448cae7bccd.png)
+![d workflow](https://user-images.githubusercontent.com/78751231/171396021-eb3c3268-9fa1-44dd-bed4-9b0b15e00b07.png)
+
 </details>
 
 
@@ -98,7 +94,7 @@ from an OCaml type definition
 <br>
 
 ## 📺 Final Presentation
-Watch the final public presentation I organised & hosted with my fellow interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
+Watch the final public presentation I organised & hosted with my fellow amazing interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
 
 <br>
 
