@@ -62,29 +62,47 @@ from an OCaml type definition
 
 
 
-#### 🔹Table of pair programming (=pp) notes and workflow
-0. 
-1. pp #1
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
+#### 🔹Table of pair programming notes and workflow
 
 
+<b>Before</b> - Get familiarise with [mirage-metrics](https://github.com/mirage/metrics) (CPU, memory), study & reference Phoenix.LiveDashboard
+
+[Pair programming #1](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%231%2C%202.md) - 
+Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml syntax
+
+[Pair programming #2] - Uptime, CPU, metrics-lwt
+
+[Pair programming #3]
+
+[Pair programming #4]
+
+[Pair programming #5]
+
+[Pair programming #6]
+
+[Pair programming #7]
+
+[Pair programming #8]
+
+[Pair programming #9]
+
+[Pair programming #10]
+
+[Pair programming #11]
+
+[Pair programming #12]
+
+[Pair programming #13]
+
+[Pair programming #14] - Aggregate, Make it more reponsive, Remove unuse code for now
+
+[Pair programming #15] - Rebase, Check everything before go upstream, Open an issue for the next steps
+
+<br>
 <br>
 
 ## 🗺️ Planned Outlook 
-*Disclaimer: this UI design and code all exist in the codebase but the actual outlook when the PR merged point is different like the next paragraph*
+*Disclaimer: this UI design and all the foundations of back-end code exist in the codebase but the actual outlook when the PR merged is different like the next paragraph*
 #### 🔹Overview page
 ![dash o](https://user-images.githubusercontent.com/78751231/171993753-020a3e6d-7a9c-4e53-be33-cc903c36918e.png)
 
@@ -95,6 +113,16 @@ from an OCaml type definition
 ![dash a1](https://user-images.githubusercontent.com/78751231/171993825-e9227600-949c-49ad-81ff-53aaf4a26ddd.png)
 ![dash a2](https://user-images.githubusercontent.com/78751231/171993832-17e1a2d2-1756-4c5f-81d2-e317105c32c4.png)
 
+<br>
+<br>
+
+## 📈 Outlook (when the PR merged)
+#### 🔹Overview page
+![dashboard overview 3 25 2022](https://user-images.githubusercontent.com/78751231/171997940-e15e272c-cdc4-4db5-918e-1b369a2925e0.png)
+
+
+#### 🔹Analytics page
+![dashboard analytics 3 25 2022](https://user-images.githubusercontent.com/78751231/171997946-045ac617-4b29-4d71-a90b-eff09349e4bf.png)
 
 
 <br>
@@ -103,8 +131,9 @@ from an OCaml type definition
 Watch the final public presentation I organised & hosted with my fellow amazing interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
 
 <br>
+<br>
 
-## Aknowlegdement
-- This project is inspired by 
-- UI design by Asaad Mahmood
+### Aknowlegdement
+- This project is inspired by [Phoenix.LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard) and [plausible.io](https://plausible.io/)
+- UI design by Asaad Mahmood, Mirza Babar Baig 
 
