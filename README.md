@@ -70,33 +70,33 @@ from an OCaml type definition
 [Pair programming #1](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%231%2C%202.md) - 
 Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml syntax
 
-[Pair programming #2] - Uptime, CPU, metrics-lwt
+[Pair programming #2](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%232.md) - Uptime, CPU, metrics-lwt
 
-[Pair programming #3]
+[Pair programming #3]()
 
-[Pair programming #4]
+[Pair programming #4]()
 
-[Pair programming #5]
+[Pair programming #5]()
 
-[Pair programming #6]
+[Pair programming #6]()
 
-[Pair programming #7]
+[Pair programming #7]()
 
-[Pair programming #8]
+[Pair programming #8]()
 
-[Pair programming #9]
+[Pair programming #9]()
 
-[Pair programming #10]
+[Pair programming #10]()
 
-[Pair programming #11]
+[Pair programming #11]()
 
-[Pair programming #12]
+[Pair programming #12]()
 
-[Pair programming #13]
+[Pair programming #13]()
 
-[Pair programming #14] - Aggregate, Make it more reponsive, Remove unuse code for now
+[Pair programming #14]() - Aggregate, Make it more reponsive, Remove unuse code for now
 
-[Pair programming #15] - Rebase, Check everything before go upstream, Open an issue for the next steps
+[Pair programming #15]() - Rebase, Check everything before go upstream, Open an issue for the next steps
 
 <br>
 <br>
