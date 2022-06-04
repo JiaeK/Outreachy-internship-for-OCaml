@@ -1,4 +1,3 @@
-
 # 🐫 Documentation for my Outreachy internship for Ocaml 🐫
 
 ### 📣 General info
@@ -87,6 +86,16 @@ from an OCaml type definition
 ## 🗺️ Planned Outlook 
 *Disclaimer: this UI design and code all exist in the codebase but the actual outlook when the PR merged point is different like the next paragraph*
 #### 🔹Overview page
+![dash o](https://user-images.githubusercontent.com/78751231/171993753-020a3e6d-7a9c-4e53-be33-cc903c36918e.png)
+
+#### 🔹Monitoring page
+![dash m](https://user-images.githubusercontent.com/78751231/171993800-f9bedcd6-f0ed-42dd-b92f-a33ef665a3c1.png)
+
+#### 🔹Analytics page
+![dash a1](https://user-images.githubusercontent.com/78751231/171993825-e9227600-949c-49ad-81ff-53aaf4a26ddd.png)
+![dash a2](https://user-images.githubusercontent.com/78751231/171993832-17e1a2d2-1756-4c5f-81d2-e317105c32c4.png)
+
+
 
 <br>
 
