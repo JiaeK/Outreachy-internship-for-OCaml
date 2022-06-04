@@ -16,7 +16,7 @@
 - Currently upstreaming on [ocaml.org/dashboard/](https://ocaml.org/dashboard/)
  
 - Codebase is inside of [ocaml.org/src/](https://github.com/ocaml/ocaml.org/tree/main/src/dream_dashboard) repo
-- Next step suggestions is [here](https://github.com/ocaml/ocaml.org/issues/410) 
+- Next step suggestion is [here](https://github.com/ocaml/ocaml.org/issues/410) 
 
 <br>
 
