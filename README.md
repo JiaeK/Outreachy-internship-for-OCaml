@@ -65,24 +65,24 @@ from an OCaml type definition
 #### 🔹Table of pair programming notes and workflow
 
 
-<b>Before</b> - Get familiarise with [mirage-metrics](https://github.com/mirage/metrics) (CPU, memory), study & reference Phoenix.LiveDashboard
+<b>Before</b> - Get familiarise with [mirage-metrics](https://github.com/mirage/metrics) (`CPU`, `memory`), Study & reference Phoenix.LiveDashboard
 
 [Pair programming #1](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%231%2C%202.md) - 
-Basic concepts of OCaml, how to reference OCaml API when writing OCaml, OCaml syntax
+Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml syntax
 
-[Pair programming #2](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%232.md) - Uptime, returning to CPU, metrics-lwt
+[Pair programming #2](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%232.md) - `Uptime`, Returning to `CPU`, `metrics-lwt`
 
-[Pair programming #3]() - Get familiarise with Dream, implement a spin-dream project, how to reference build_info.mli, alcotest
+[Pair programming #3](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%233.md) - Get familiarise with `Dream`, Implement a `spin-dream` project, How to reference `build_info`, `alcotest`
 
-[Pair programming #4]() - Implement platform & CPU & uptime, learn about Luv & ocaml-node-unix & I/O & mutex
+[Pair programming #4]() - Implement `platform` & `CPU` & `uptime`, Learn about `Luv` & `ocaml-node-unix` & `I/O` & `mutex`
 
 [Pair programming #5]() - 
 
 [Pair programming #6]() -
 
-[Pair programming #7]() -  top browser, top os, top devices, CPU usage
+[Pair programming #7]() - `top browser`, `top os`, `top devices`, `CPU usage`
 
-[Pair programming #8]() - load average, memory usage, opened file descriptors
+[Pair programming #8]() - `load average`, `memory usage`, `opened file descriptors`
 
 [Pair programming #9]() - 
 
