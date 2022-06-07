@@ -1,6 +1,21 @@
 # 🐫 Documentation of my Outreachy internship with Ocaml 🐫
 
-### 📣 General info
+### 🪧 Table of Contents
+- [General info](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-general-info)
+- [Features](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-features)
+- [Overview of workflow & pair programming](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-overview-of-workflow--pair-programming)
+  - [Overview of workflow as in chart](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#overview-of-workflow-as-in-chart)
+  - [Table of pair programming notes and workflow](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#table-of-pair-programming-notes-and-workflow)
+- [Planned outlook](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#%EF%B8%8F-planned-outlook)
+- [Outlook (when the PR merged)](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-outlook-when-the-pr-merged)
+- [Developed with](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-developed-with)
+- [Final Presentation](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-final-presentation)
+- [Acknowledgement](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#acknowlegdement)
+
+<br>
+
+
+## 📣 General info
 - Project’s name: Building a monitoring and analytics dashboard for ocaml.org
 - Purpose: Provided the visibility on the server performance of metrics, statistics, and analytics to its site users
 
@@ -80,7 +95,7 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 <br>
 <br>
 
-## 🗺️ Planned Outlook 
+## 🗺️ Planned outlook 
 *Disclaimer: this UI design and all the foundations of back-end code exist inside of the repo but the actual outlook when the PR merged is different like the next paragraph*
 #### 🔹Overview page
 ![dash o](https://user-images.githubusercontent.com/78751231/171993753-020a3e6d-7a9c-4e53-be33-cc903c36918e.png)
@@ -106,6 +121,13 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 <br>
 
+## 👾 Challenges 
+
+<br>
+
+## 🧠 What I learned
+
+<br>
 
 ## 🔧 Developed with 
 - [OCaml](https://github.com/ocaml/ocaml) : A functional, statically-typed programming language from the ML family, offering a powerful module system extending that of Standard ML and a feature-rich, class-based object system
@@ -135,7 +157,7 @@ Watch the final public presentation I organised & hosted with my fellow amazing 
 <br>
 <br>
 
-### Aknowlegdement
+### Acknowlegdement
 - This project is inspired by [Phoenix.LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard) and [plausible.io](https://plausible.io/)
 - UI design by Asaad Mahmood, Mirza Babar Baig 
 
