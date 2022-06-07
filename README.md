@@ -1,4 +1,4 @@
-# 🐫 Documentation for my Outreachy internship for Ocaml 🐫
+# 🐫 Documentation of my Outreachy internship with Ocaml 🐫
 
 ### 📣 General info
 - Project’s name: Building a monitoring and analytics dashboard for ocaml.org
