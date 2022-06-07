@@ -58,7 +58,8 @@ from an OCaml type definition
 
 
 #### 🔹Overview of workflow as in chart 
-<img src="https://user-images.githubusercontent.com/78751231/171423548-98cf1ecf-cfa1-4a0c-9d85-519a27b13929.png" alt="Workflow overview chart" title="Workflow overview chart" width="70%"/>
+<img src="https://user-images.githubusercontent.com/78751231/171423548-98cf1ecf-cfa1-4a0c-9d85-519a27b13929.png" alt="Workflow overview chart" title="Workflow overview chart"
+     width="75%"/>
 
 
 
@@ -102,7 +103,7 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 <br>
 
 ## 🗺️ Planned Outlook 
-*Disclaimer: this UI design and all the foundations of back-end code exist in the codebase but the actual outlook when the PR merged is different like the next paragraph*
+*Disclaimer: this UI design and all the foundations of back-end code exist inside of the repo but the actual outlook when the PR merged is different like the next paragraph*
 #### 🔹Overview page
 ![dash o](https://user-images.githubusercontent.com/78751231/171993753-020a3e6d-7a9c-4e53-be33-cc903c36918e.png)
 
