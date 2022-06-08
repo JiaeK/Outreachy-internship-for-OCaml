@@ -13,8 +13,9 @@
 - [Developed with](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-developed-with)
 - [Acknowledgement](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#acknowlegdement)
 
-<br>
 
+<br>
+<br>
 
 ## 📣 General info
 - Project’s name: <ins>**Building a monitoring and analytics dashboard for ocaml.org**</ins>
@@ -35,6 +36,8 @@
 
 - Next step suggestion is [here](https://github.com/ocaml/ocaml.org/issues/410) 
 
+
+<br>
 <br>
 
 ## 🌈 Features 
@@ -46,6 +49,7 @@
 
 
 <br>
+<br>
 
 
 ## 🧭 Overview of workflow & pair programming 
@@ -56,6 +60,7 @@
      width="75%"/>
 
 
+<br>
 
 ### 🔹Table of pair programming notes and workflow
 
@@ -93,8 +98,10 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 [Pair programming #15]() - Rebase, Check everything before go upstream, Open an issue for the next steps
 
+
 <br>
 <br>
+
 
 ## 🗺️ Planned outlook 
 *Disclaimer: this UI design and all the foundations of back-end code exist inside of the repo but the actual outlook when the PR merged is different like the next paragraph*
@@ -108,8 +115,10 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 ![dash a1](https://user-images.githubusercontent.com/78751231/171993825-e9227600-949c-49ad-81ff-53aaf4a26ddd.png)
 ![dash a2](https://user-images.githubusercontent.com/78751231/171993832-17e1a2d2-1756-4c5f-81d2-e317105c32c4.png)
 
+
 <br>
 <br>
+
 
 ## 📈 Outlook (when the PR merged)
 #### 🔹Overview page
@@ -121,14 +130,22 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 
 <br>
+<br>
+
 
 ## 👾 Challenges 
 
+
 <br>
+<br>
+
 
 ## 🧠 What I learned
 
+
 <br>
+<br>
+
 
 ## 🔧 Developed with 
 - [OCaml](https://github.com/ocaml/ocaml) : A functional, statically-typed programming language from the ML family, offering a powerful module system extending that of Standard ML and a feature-rich, class-based object system
@@ -158,5 +175,5 @@ from an OCaml type definition
 - This project is inspired by [Phoenix.LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard) and [plausible.io](https://plausible.io/)
 - UI design by Asaad Mahmood, Mirza Babar Baig 
 - 📺 Watch the final public presentation I organised & hosted with my fellow amazing interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
-
+- 📰 Read more stories of my Outreachy internship experience on [my blog](https://jiaek.wordpress.com)
 
