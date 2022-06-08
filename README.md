@@ -8,15 +8,16 @@
   - [Table of pair programming notes and workflow](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#table-of-pair-programming-notes-and-workflow)
 - [Planned outlook](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#%EF%B8%8F-planned-outlook)
 - [Outlook (when the PR merged)](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-outlook-when-the-pr-merged)
+- [Challenges](https://github.com/JiaeK/Outreachy-internship-for-OCaml#-challenges)
+- [What I learned](https://github.com/JiaeK/Outreachy-internship-for-OCaml#-what-i-learned)
 - [Developed with](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-developed-with)
-- [Final Presentation](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-final-presentation)
 - [Acknowledgement](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#acknowlegdement)
 
 <br>
 
 
 ## 📣 General info
-- Project’s name: Building a monitoring and analytics dashboard for ocaml.org
+- Project’s name: <ins>**Building a monitoring and analytics dashboard for ocaml.org**</ins>
 - Purpose: Provided the visibility on the server performance of metrics, statistics, and analytics to its site users
 
 - Mentor: Thibaut Mattio (@tmattio)
@@ -149,10 +150,6 @@ from an OCaml type definition
 - [Tailwind CSS](https://tailwindcss.com/) : A utility-first CSS framework for rapidly building custom user interfaces
 - [Alpine.js](https://alpinejs.dev/): A rugged, minimal framework for composing JavaScript behavior in your markup
 
-<br>
-
-## 📺 Final Presentation
-Watch the final public presentation I organised & hosted with my fellow amazing interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
 
 <br>
 <br>
@@ -160,4 +157,6 @@ Watch the final public presentation I organised & hosted with my fellow amazing 
 ### Acknowlegdement
 - This project is inspired by [Phoenix.LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard) and [plausible.io](https://plausible.io/)
 - UI design by Asaad Mahmood, Mirza Babar Baig 
+- 📺 Watch the final public presentation I organised & hosted with my fellow amazing interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
+
 
