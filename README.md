@@ -8,8 +8,6 @@
   - [Table of pair programming notes and workflow](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#table-of-pair-programming-notes-and-workflow)
 - [Planned outlook](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#%EF%B8%8F-planned-outlook)
 - [Outlook (when the PR merged)](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-outlook-when-the-pr-merged)
-- [Challenges](https://github.com/JiaeK/Outreachy-internship-for-OCaml#-challenges)
-- [What I learned](https://github.com/JiaeK/Outreachy-internship-for-OCaml#-what-i-learned)
 - [Developed with](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-developed-with)
 - [Acknowledgement](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#acknowlegdement)
 
@@ -62,8 +60,8 @@
 
 <br>
 
-### 🔹Table of pair programming notes and workflow
-
+### 🔹Table of pair programming notes and workflow 
+*(Working in progress)*
 
 <b>Before</b> - Get familiarise with [mirage-metrics](https://github.com/mirage/metrics) (`CPU`, `memory`), Study & reference Phoenix.LiveDashboard
 
@@ -127,20 +125,6 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 #### 🔹Analytics page
 ![dashboard analytics 3 25 2022](https://user-images.githubusercontent.com/78751231/171997946-045ac617-4b29-4d71-a90b-eff09349e4bf.png)
-
-
-<br>
-<br>
-
-
-## 👾 Challenges 
-
-
-<br>
-<br>
-
-
-## 🧠 What I learned
 
 
 <br>
