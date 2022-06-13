@@ -102,7 +102,7 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 
 ## 🗺️ Planned outlook 
-*Disclaimer: this UI design and all the foundations of back-end code exist inside of the repo but the actual outlook when the PR merged is different like the next paragraph*
+*Disclaimer: this UI design and all the foundations of back-end code exist inside of the repo, but the actual outlook when the PR was merged is different as shown in the next paragraph*
 #### 🔹Overview page
 ![dash o](https://user-images.githubusercontent.com/78751231/171993753-020a3e6d-7a9c-4e53-be33-cc903c36918e.png)
 
@@ -158,6 +158,6 @@ from an OCaml type definition
 ### Acknowlegdement
 - This project is inspired by [Phoenix.LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard) and [plausible.io](https://plausible.io/)
 - UI design by Asaad Mahmood, Mirza Babar Baig 
-- 📺 Watch the final public presentation I organised & hosted with my fellow amazing interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
+- 📺 Watch the final public presentation I organised & hosted with my amazing fellow interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
 - 📰 Read more stories of my Outreachy internship experience on [my blog](https://jiaek.wordpress.com)
 
