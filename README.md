@@ -7,7 +7,7 @@
   - [Overview of workflow as in chart](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#overview-of-workflow-as-in-chart)
   - [Table of pair programming notes and workflow](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#table-of-pair-programming-notes-and-workflow)
 - [Planned outlook](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#%EF%B8%8F-planned-outlook)
-- [Outlook (when the PR merged)](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-outlook-when-the-pr-merged)
+- [Outlook (when the PR was merged)](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-outlook-when-the-pr-was-merged)
 - [Developed with](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-developed-with)
 - [Acknowledgement](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#acknowlegdement)
 
@@ -16,8 +16,8 @@
 <br>
 
 ## 📣 General info
-- Project’s name: <ins>**Building a monitoring and analytics dashboard for ocaml.org**</ins>
-- Purpose: Provided the visibility on the server performance of metrics, statistics, and analytics to its site users
+- Project’s name: <ins>**Building a monitoring and analytics dashboard for OCaml.org**</ins>
+- Purpose: Providing visibility on server performance and usage to OCaml.org users (metrics, statistics, analytics)
 
 - Mentor: Thibaut Mattio (@tmattio)
 
@@ -61,7 +61,7 @@
 <br>
 
 ### 🔹Table of pair programming notes and workflow 
-*(Working in progress)*
+⚠️ *(Working in progress)*
 
 <b>Before</b> - Get familiarise with [mirage-metrics](https://github.com/mirage/metrics) (`CPU`, `memory`), Study & reference Phoenix.LiveDashboard
 
@@ -118,7 +118,7 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 <br>
 
 
-## 📈 Outlook (when the PR merged)
+## 📈 Outlook (when the PR was merged)
 #### 🔹Overview page
 ![dashboard overview 3 25 2022](https://user-images.githubusercontent.com/78751231/171997940-e15e272c-cdc4-4db5-918e-1b369a2925e0.png)
 
