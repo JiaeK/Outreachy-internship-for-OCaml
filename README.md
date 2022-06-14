@@ -157,7 +157,7 @@ from an OCaml type definition
 
 ### Acknowlegdement
 - This project is inspired by [Phoenix.LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard) and [plausible.io](https://plausible.io/)
-- UI design by Asaad Mahmood, Mirza Babar Baig 
+- UI design by Asaad Mahmood 
 - 📺 Watch the final public presentation I organised & hosted with my amazing fellow interns: [here](https://watch.ocaml.org/videos/watch/f3829e4b-e2cd-443e-8502-f406e893fe5f)
 - 📰 Read more stories of my Outreachy internship experience on [my blog](https://jiaek.wordpress.com)
 
