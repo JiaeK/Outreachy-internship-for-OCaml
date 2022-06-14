@@ -72,7 +72,7 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 [Pair programming #3](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%233.md) - Get familiarise with `Dream`, Implement a `spin-dream` project, How to reference `build_info`, `alcotest`
 
-[Pair programming #4]() - Implement `platform` & `CPU` & `uptime`, Learn about `Luv` & `ocaml-node-unix` & `I/O` & `mutex`
+[Pair programming #4](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%234.md) - Implement `platform` & `CPU` & `uptime`, Learn about `Luv` & `ocaml-node-unix` & `I/O` & `mutex`
 
 [Pair programming #5]() - 
 
