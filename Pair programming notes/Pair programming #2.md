@@ -1,4 +1,4 @@
-- Implemented `uptime` in [.mli](https://github.com/JiaeK/dream-dashboard/blob/36ce89f5f2610788ca8195fb80b22cbf64eb01ce/src/info.mli#L29) & [.ml](https://github.com/JiaeK/dream-dashboard/blob/36ce89f5f2610788ca8195fb80b22cbf64eb01ce/src/info.ml#L22) files
+- Implemented `uptime` in [.mli](https://github.com/JiaeK/dream-dashboard/blob/36ce89f5f2610788ca8195fb80b22cbf64eb01ce/src/info.mli#L29) file
 - To return to `CPU`, we have to check [metrics_rusage](https://mirage.github.io/metrics/metrics-rusage/Metrics_rusage/index.html), metrics library for `rusage`
 - `name -> process (struct) -> pid`
   - `PID` in the project's context: it stands for “Process Identifier”. When the operating system creates new processes, it assigns them an unique identifier (ID), so it can manage them
