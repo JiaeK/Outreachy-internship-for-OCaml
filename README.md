@@ -61,7 +61,6 @@
 <br>
 
 ### 🔹Table of pair programming notes and workflow 
-⚠️ *(Working in progress)*
 
 <b>Before</b> - Get familiarise with [mirage-metrics](https://github.com/mirage/metrics) (`CPU`, `memory`), Study & reference Phoenix.LiveDashboard
 
@@ -74,6 +73,10 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 [Pair programming #4](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%234.md) - Implement `platform` & `CPU` & `uptime`, Learn about `Luv` & `ocaml-node-unix` & `I/O` & `mutex`
 
+
+<details>
+  <summary>Pp #5 ~ #15 - ⚠️Working in progress (click to expand) </summary>
+  
 [Pair programming #5]() - 
 
 [Pair programming #6]() -
@@ -95,6 +98,7 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 [Pair programming #14]() - Aggregate, Make it more reponsive, Remove unuse code for now
 
 [Pair programming #15]() - Rebase, Check everything before go upstream, Open an issue for the next steps
+</details>
 
 
 <br>
