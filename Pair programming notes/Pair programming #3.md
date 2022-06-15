@@ -5,7 +5,7 @@
     - E.g. instead of just crashing at the first `assert`, we might want all of our test cases to pass, then get a report of which ones failed and which ones succeeded. Usually you also want some pretty printed feedback about which values were expected and which values you actually got. It's also common to want to break tests up into subgroups
   - Test frameworks like alcotest provide all of these nice features. That saves each programmer having to reinvent their own testing utilities for each project
   - Although it gives us nice functions and data structures to use in our test programs, and defines a convenient CLI to use when we run the test program. In order to actually turn the test code we've written using alcotest, we still need to compile it
-  - A command like `dune test` or `make test` generally just takes of (1) compiling the test program and (2) running it so we can see if the program we want to test behaves as expecte
+  - A command like `dune test` or `make test` generally just takes of (1) compiling the test program and (2) running it so we can see if the program we want to test behaves as expected
 
 
 
