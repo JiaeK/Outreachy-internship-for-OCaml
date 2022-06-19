@@ -1,4 +1,4 @@
-# 🐫 Documentation of my Outreachy internship with Ocaml 🐫
+# 🐫 Documentation of my Outreachy internship working with Ocaml 🐫
 
 ### 🪧 Table of Contents
 - [General info](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-general-info)
