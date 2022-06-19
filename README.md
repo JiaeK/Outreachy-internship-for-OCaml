@@ -73,13 +73,13 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 [Pair programming #4](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%234.md) - Implement `platform` & `CPU` & `uptime`, Learn about `Luv` & `ocaml-node-unix` & `I/O` & `mutex`
 
+[Pair programming #5](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%235.md) - `user agent`, `os`, `device info`, `events`
+
+Pair programming #6 - Revision, refactoring
 
 <details>
-  <summary>Pp #5 ~ #15 - ⚠️Working in progress (click to expand) </summary>
+  <summary>Pp #7 ~ #15 - ⚠️Working in progress (click to expand) </summary>
   
-[Pair programming #5]() - 
-
-[Pair programming #6]() -
 
 [Pair programming #7]() - `top browser`, `top os`, `top devices`, `CPU usage`
 
