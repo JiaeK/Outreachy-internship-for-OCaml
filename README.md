@@ -77,13 +77,13 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 Pair programming #6 - Revision, refactoring
 
+[Pair programming #7](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%237.md) - `top browser`, `top os`, `top devices`, `CPU usage`
+
+[Pair programming #8](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%238.md) - `load average`, `memory usage`, `opened file descriptors`
+
 <details>
-  <summary>Pp #7 ~ #15 - ⚠️Working in progress (click to expand) </summary>
+  <summary>Pp #9 ~ #15 - ⚠️Working in progress (click to expand) </summary>
   
-
-[Pair programming #7]() - `top browser`, `top os`, `top devices`, `CPU usage`
-
-[Pair programming #8]() - `load average`, `memory usage`, `opened file descriptors`
 
 [Pair programming #9]() - 
 
