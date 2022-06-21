@@ -1,15 +1,15 @@
 # 🐫 Documentation of my Outreachy internship working with OCaml 🐫
 
 ### 🪧 Table of Contents
-- [General info](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-general-info)
-- [Features](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-features)
-- [Overview of workflow & pair programming](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-overview-of-workflow--pair-programming)
-  - [Overview of workflow as in chart](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#overview-of-workflow-as-in-chart)
-  - [Table of pair programming notes and workflow](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#table-of-pair-programming-notes-and-workflow)
-- [Planned outlook](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#%EF%B8%8F-planned-outlook)
+- [General info](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/README.md#-general-info)
+- [Features](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/README.md#-features)
+- [Overview of workflow & pair programming](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/README.md#-overview-of-workflow--pair-programming)
+  - [Overview of workflow as in chart](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/README.md#overview-of-workflow-as-in-chart)
+  - [Table of pair programming notes and workflow](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/README.md#table-of-pair-programming-notes-and-workflow)
+- [Planned outlook](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/README.md#%EF%B8%8F-planned-outlook)
 - [Outlook (when the PR was merged)](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/README.md#-outlook-when-the-pr-was-merged)
-- [Developed with](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#-developed-with)
-- [Acknowledgement](https://github.com/JiaeK/Outreachy-internship-for-OCaml/edit/main/README.md#acknowlegdement)
+- [Developed with](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/README.md#-developed-with)
+- [Acknowledgement](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/README.md#acknowlegdement)
 
 
 <br>
