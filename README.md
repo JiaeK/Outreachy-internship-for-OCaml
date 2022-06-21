@@ -64,7 +64,7 @@
 
 <b>Before</b> - Get familiarise with [mirage-metrics](https://github.com/mirage/metrics) (`CPU`, `memory`), Study & reference Phoenix.LiveDashboard
 
-[Pair programming #1](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%231%2C%202.md) - 
+[Pair programming #1](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%231.md) - 
 Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml syntax
 
 [Pair programming #2](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%232.md) - `Uptime`, Returning to `CPU`, `metrics-lwt`
