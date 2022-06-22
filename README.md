@@ -75,29 +75,24 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 [Pair programming #5](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%235.md) - `user agent`, `os`, `device info`, `events`
 
-Pair programming #6 - Revision, refactoring
+Pair programming #6 - Revision, Refactoring
 
-[Pair programming #7](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%237.md) - `top browser`, `top os`, `top devices`, `CPU usage` & started working with UI designers
+[Pair programming #7](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%237.md) - `top browser`, `top os`, `top devices`, `CPU usage` & Started working with UI designers
 
-[Pair programming #8](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%238.md) - `load average`, `memory usage`, `opened file descriptors`, started researching dashboard designs
+[Pair programming #8](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%238.md) - `load average`, `memory usage`, `opened file descriptors`, Started researching dashboard designs
 
 [Pair programming #9](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%239.md) - Attempt to implement `log`
 
-[Pair programming #10](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%2310.md) - `unique visitors`, adjust `open file descriptors, get localization for IP addresses, hash
+[Pair programming #10](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%2310.md) - `unique visitors`, Adjust `open file descriptors, Get localization for IP addresses, Hash
 
-Pair programming #11 - Temporary remove `log`, get ready for upstreaming - opened PR for integration to ocaml.org , adjust TODOs
+Pair programming #11 - Temporary remove `log`, Get ready for upstreaming - opened PR for integration to ocaml.org , adjust TODOs
 
-[Pair programming #12](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%2312.md) - Rebase, add the total count of unique visitors, fix `memory usage` & `uptime`, remove `I/O` for now
+[Pair programming #12](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%2312.md) - Rebase, Add the total count of unique visitors, Fix `memory usage` & `uptime`, Remove `I/O` for now
 
-<details>
-  <summary>Pp #13 ~ #15 - ⚠️Working in progress (click to expand) </summary>
-  
-[Pair programming #13]()
+[Pair programming #13](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%2313.md) - Aggregate, Make it more reponsive, Remove unuse code for now
 
-[Pair programming #14]() - Aggregate, Make it more reponsive, Remove unuse code for now
+[Pair programming #14](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%2314.md) - Rebase, Update privacy policy, Check everything before go upstream, Open an issue for the next steps
 
-[Pair programming #15]() - Rebase, Check everything before go upstream, Open an issue for the next steps
-</details>
 
 
 <br>
