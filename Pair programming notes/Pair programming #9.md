@@ -1,0 +1,18 @@
+- we didn’t need `open_fds_src` so put `open_fds` into `info.ml` to make `my_metrics.ml` has only time involving stuffs
+- our `open_fds` code were only returning the counts now and we wanted more info, so we researched but couldn’t find a good way so decided to let this in this state and move on to another for now + we don’t have the socket part yet as well
+- Attempts to implement `log`:
+  - We wanted to inspect how `log` works in Dream repo - found `get_request_id` in log.ml but not sure whether we can expose this
+  - tried to adjust the code from line.132 [`let report`](https://github.com/aantron/dream/blob/2386083170766255021171870b8568d1c8c933b5/src/server/log.ml#L132), and assumed that we probably need `?write` to put write options
+  - wondered why Dream uses `Log.Make` and assumed it's because there is `log initialize`. so maybe we need to write as `log initialize_log ?write` -> but then not sure about continuing to implement with `?write`
+  - created an example with `w_log_collection` + dune build
+  - checked [the opened issue for log](https://github.com/aantron/dream/issues/195), started to research ocaml's `read stderr` but after the research still not sure the usage
+  - [ocamlunix/pipes.tex](https://github.com/ocaml/ocamlunix/blob/master/src/pipes.tex)'s `multiplex` should be a very relevant material
+  - captured what are we doing in `channel`. this `channel` is for `stderr`. the number 0 and then 258 was the length we want
+  - redirect_stdout + read write
+  - `dst` means destination
+  - then implemented `stderr` but we don’t have logs yet
+  - tried: `oldstdout -> src`, `newstdout ->dst`, but this wasn’t the one we want
+  - maybe we should: either duplicate `stderr` or using subprocess..
+  - we weren’t sure but tried to compile anyway. -> seemed some were ok like middleware but not sure about the different destinations -> should raise further questions to the opened PR (mentioned above)
+- Leave the log part for now, need to prepare to upstream our dashboard 
+
