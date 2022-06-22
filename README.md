@@ -77,22 +77,21 @@ Basic concepts of OCaml, How to reference OCaml API when writing OCaml, OCaml sy
 
 Pair programming #6 - Revision, refactoring
 
-[Pair programming #7](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%237.md) - `top browser`, `top os`, `top devices`, `CPU usage`
+[Pair programming #7](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%237.md) - `top browser`, `top os`, `top devices`, `CPU usage` & started working with UI designers
 
-[Pair programming #8](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%238.md) - `load average`, `memory usage`, `opened file descriptors`
+[Pair programming #8](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%238.md) - `load average`, `memory usage`, `opened file descriptors`, started researching dashboard designs
+
+[Pair programming #9](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%239.md) - Attempt to implement `log`
+
+[Pair programming #10](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%2310.md) - `unique visitors`, adjust `open file descriptors, get localization for IP addresses, hash
+
+Pair programming #11 - Temporary remove `log`, get ready for upstreaming - opened PR for integration to ocaml.org , adjust TODOs
+
+[Pair programming #12](https://github.com/JiaeK/Outreachy-internship-for-OCaml/blob/main/Pair%20programming%20notes/Pair%20programming%20%2312.md) - Rebase, add the total count of unique visitors, fix `memory usage` & `uptime`, remove `I/O` for now
 
 <details>
-  <summary>Pp #9 ~ #15 - ⚠️Working in progress (click to expand) </summary>
+  <summary>Pp #13 ~ #15 - ⚠️Working in progress (click to expand) </summary>
   
-
-[Pair programming #9]() - 
-
-[Pair programming #10]()
-
-[Pair programming #11]()
-
-[Pair programming #12]()
-
 [Pair programming #13]()
 
 [Pair programming #14]() - Aggregate, Make it more reponsive, Remove unuse code for now
