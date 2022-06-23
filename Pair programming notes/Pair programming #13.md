@@ -1,5 +1,5 @@
 - [aggregated](https://github.com/ocaml/ocaml.org/pull/399/commits/563cb688a5eee9a120cdbe3219a89bf076f37828#diff-6c299e37f37bbe1cf7d3819e0bc595078a5a9736b01a54785d259e7f1de6360e)
-1. removed `referer`, `source`, `location`, `devices` for now
+1. removed the UI parts of `referer`, `source`, `location`, `devices` for now
 : this is because, e.g. for `location` - it’s rather more complicated than we expected - we have to map all the addresses which connect to google
 2. removed unuse code from analytic template and made the comments
 3. checked `ip_info` option in `event.ml` 
