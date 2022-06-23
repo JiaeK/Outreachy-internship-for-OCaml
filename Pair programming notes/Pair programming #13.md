@@ -3,7 +3,7 @@
 : this is because, e.g. for `location` - it’s rather more complicated than we expected - we have to map all the addresses which connect to google
 2. removed unuse code from analytic template and made the comments
 3. checked `ip_info` option in `event.ml` 
-- we need to salt the hash = hash it better
+- we need to salt the hash
 - updated TODOs
 - made it more responsive for desktop and mobile etc.
 - nav bar in layout_template.eml
