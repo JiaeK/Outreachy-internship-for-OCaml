@@ -102,14 +102,16 @@ Pair programming #11 - Temporary remove `log`, Get ready for upstreaming - opene
 ## 🗺️ Planned outlook 
 *Disclaimer: this UI design and all the foundations of back-end code exist inside of the repo, but the actual outlook when the PR was merged is different as shown in the next paragraph*
 #### 🔹Overview page
-![dash o](https://user-images.githubusercontent.com/78751231/171993753-020a3e6d-7a9c-4e53-be33-cc903c36918e.png)
+![dash o](https://user-images.githubusercontent.com/78751231/177977860-8dc645a7-ef75-462c-b027-1e356351d35f.png)
+
 
 #### 🔹Monitoring page
-![dash m](https://user-images.githubusercontent.com/78751231/171993800-f9bedcd6-f0ed-42dd-b92f-a33ef665a3c1.png)
+![dash m](https://user-images.githubusercontent.com/78751231/177977890-bdbc26ff-8061-46e1-b162-eeae0d806e19.png)
+
 
 #### 🔹Analytics page
-![dash a1](https://user-images.githubusercontent.com/78751231/171993825-e9227600-949c-49ad-81ff-53aaf4a26ddd.png)
-![dash a2](https://user-images.githubusercontent.com/78751231/171993832-17e1a2d2-1756-4c5f-81d2-e317105c32c4.png)
+![dash a1](https://user-images.githubusercontent.com/78751231/177977911-f482dc0b-a3d1-4520-a7a2-ec729c3f7661.png)
+![dash a2](https://user-images.githubusercontent.com/78751231/177977931-3867560f-4f93-457b-a280-4cfe90bc3093.png)
 
 
 <br>
